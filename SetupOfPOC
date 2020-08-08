@@ -1,0 +1,8 @@
+1.	Steps For Application Setup:
+
+A.	Download Webtours from path “https://marketplace.microfocus.com/appdelivery/content/web-tours-sample-application”.
+B.	Install perl available under downloaded folder.
+C.	Launch the server by "StartServer.bat".
+D.	Go to http://<IP address of your machine>:1080/webTours/home.html url. For ex. : http://192.168.20.1:1080/webTours/home.html
+E.	Application should be launched.
+F.	Create one user by signup and logout
